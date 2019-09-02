@@ -1,0 +1,16 @@
+uuid: 216baaa1-9592-4dd1-b2eb-e8042773ea59
+langcode: en
+status: true
+dependencies: {  }
+id: dev_config
+label: 'Dev config'
+description: 'This is dev config'
+folder: sites/default/dev_config
+module:
+  devel: 0
+theme: {  }
+blacklist: {  }
+graylist: {  }
+graylist_dependents: true
+graylist_skip_equal: true
+weight: 0
